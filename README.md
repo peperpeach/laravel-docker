@@ -1,11 +1,13 @@
 ﻿# laravel-docker
+<snippet>
+  <content><![CDATA[
 Docker Laravel
 Php + Nginx + Mysql (Optional)
 
 Instructions
 
 1. clone project laravel via git repository to this repo
-$ git clone https://github.com/laravel/laravel.git
+    $ git clone https://github.com/laravel/laravel.git
 
 2. Directory Structure
     laravel
@@ -46,3 +48,6 @@ $ docker-compose up -d
 
 To stop them, use this:
 $ docker-compose down
+]]></content>
+  <tabTrigger>readme</tabTrigger>
+</snippet>
